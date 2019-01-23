@@ -1,2 +1,2 @@
-# Rewatch_videoAug9
-Rewatching video as of Aug9 for all unsolved files
+# Pandas Analysis Projects
+These projects are analyzing different type of big data. 
